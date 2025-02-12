@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Online Shopping System - Advanced Project
 
 The Online Shopping System is a web application that allows customers to browse and purchase products online. It provides CRUD (Create, Read, Update, Delete) functionality for the admin to manage products, and allows customers to register, login, add products to the cart, and make purchases. The backend of the system is implemented using Java Servlets, while the frontend is built with Bootstrap, CSS, and HTML. The system also utilizes session tracking and a MySQL database for data storage.
@@ -59,3 +60,6 @@ Contributions to the project are welcome. If you find any issues or have suggest
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+=======
+# online_shopping
+>>>>>>> origin/main
